@@ -17,10 +17,6 @@ void func2(){
 void func3(){
   System.out.println(f3)
 }
-
-
-
-
-
-
 i am fz1
+
+fixed bug!!!
