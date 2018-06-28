@@ -1,3 +1,5 @@
 import sys
-reload(sys)
-sys.setdefaultencoding='utf-88888'
+reload
+sys.setdefaultencoding='utf-s8'
+
+i am master
